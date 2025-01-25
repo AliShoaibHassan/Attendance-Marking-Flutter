@@ -1,6 +1,6 @@
-# firebase_lab
+# Attendance-Marking-Flutter
 
-A new Flutter project.
+A new Flutter project to mark the attendance of students using Flutter. Kindly ignore the file names of the .dart files as they were created with another project in mind 😬!
 
 ## Getting Started
 
