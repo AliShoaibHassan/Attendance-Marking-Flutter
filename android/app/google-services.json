@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382353492886",
+    "project_id": "newproject-b2c20",
+    "storage_bucket": "newproject-b2c20.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382353492886:android:d18f36f00da8cbed0b2bb7",
+        "android_client_info": {
+          "package_name": "com.ali.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCriT93yH5Z0j5quoMtWCNFDHoEfUICDvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
